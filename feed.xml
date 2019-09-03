@@ -1,17 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-09-03T07:35:26+00:00</updated><id>/feed.xml</id><title type="html">信息技术中心师生服务</title><subtitle>信息技术中心面向师生的服务窗口</subtitle><author><name>运维服务部</name></author><entry><title type="html">云南大学VPN使用教程</title><link href="/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/2019/09/03/%E4%BA%91%E5%8D%97%E5%A4%A7%E5%AD%A6VPN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html" rel="alternate" type="text/html" title="云南大学VPN使用教程" /><published>2019-09-03T07:18:00+00:00</published><updated>2019-09-03T07:34:46+00:00</updated><id>/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/2019/09/03/%E4%BA%91%E5%8D%97%E5%A4%A7%E5%AD%A6VPN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B</id><content type="html" xml:base="/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/2019/09/03/%E4%BA%91%E5%8D%97%E5%A4%A7%E5%AD%A6VPN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html">&lt;h1 id=&quot;请按照以下提示操作&quot;&gt;请按照以下提示操作&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-09-03T07:37:42+00:00</updated><id>/feed.xml</id><title type="html">信息技术中心师生服务</title><subtitle>信息技术中心面向师生的服务窗口</subtitle><author><name>运维服务部</name></author><entry><title type="html">云南大学VPN使用教程</title><link href="/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/2019/09/03/%E4%BA%91%E5%8D%97%E5%A4%A7%E5%AD%A6VPN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html" rel="alternate" type="text/html" title="云南大学VPN使用教程" /><published>2019-09-03T07:18:00+00:00</published><updated>2019-09-03T07:36:55+00:00</updated><id>/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/2019/09/03/%E4%BA%91%E5%8D%97%E5%A4%A7%E5%AD%A6VPN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B</id><content type="html" xml:base="/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/2019/09/03/%E4%BA%91%E5%8D%97%E5%A4%A7%E5%AD%A6VPN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html">&lt;h1 id=&quot;请按照以下提示操作&quot;&gt;请按照以下提示操作&lt;/h1&gt;
 
 &lt;p&gt;1.云南大学VPN仅供校外访问校内资源使用，若本身处于校园网环境下，则无需使用。&lt;/p&gt;
 
 &lt;p&gt;2.云南大学VPN账号密码与上网账号相同，若忘记密码，可关注微信公众号“云大信息化” -师生服务- 个人服务 菜单中，填写“重置上网账号（VPN账号）密码”申请表单，或致电65031141进行密码重置。&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;在浏览器中输入：https://vpn.ynu.edu.cn/ 进行登录使用。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;若要查看更多详细教程，在登录页面中，可点击“帮助信息”获取更多信息，如下图。&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;3.在浏览器中输入：https://vpn.ynu.edu.cn/ 进行登录使用。&lt;/p&gt;
+
+&lt;p&gt;4.若要查看更多详细教程，在登录页面中，可点击“帮助信息”获取更多信息，如下图。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://github.com/65031141/65031141.github.io/blob/master/assets/190903vpn使用教程.png&quot; alt=&quot;vpn.png&quot; /&gt;&lt;/p&gt;</content><author><name>运维服务部</name></author><category term="使用教程" /><category term="vpn" /><category term="教程" /><summary type="html">请按照以下提示操作</summary></entry><entry><title type="html">云大主页发布通知公告</title><link href="/%E5%8A%9E%E4%BA%8B%E6%8C%87%E5%8D%97/2019/09/02/%E5%AD%A6%E6%A0%A1%E4%B8%BB%E9%A1%B5%E5%8F%91%E5%B8%83%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A.html" rel="alternate" type="text/html" title="云大主页发布通知公告" /><published>2019-09-02T08:52:00+00:00</published><updated>2019-09-02T11:23:00+00:00</updated><id>/%E5%8A%9E%E4%BA%8B%E6%8C%87%E5%8D%97/2019/09/02/%E5%AD%A6%E6%A0%A1%E4%B8%BB%E9%A1%B5%E5%8F%91%E5%B8%83%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A</id><content type="html" xml:base="/%E5%8A%9E%E4%BA%8B%E6%8C%87%E5%8D%97/2019/09/02/%E5%AD%A6%E6%A0%A1%E4%B8%BB%E9%A1%B5%E5%8F%91%E5%B8%83%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A.html">&lt;h1 id=&quot;请按照以下提示进行办理&quot;&gt;请按照以下提示进行办理&lt;/h1&gt;
 
