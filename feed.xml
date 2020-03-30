@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-15T01:54:54+00:00</updated><id>/feed.xml</id><title type="html">信息技术中心师生服务</title><subtitle>信息技术中心面向师生的服务窗口</subtitle><author><name>运维服务部</name></author><entry><title type="html">今日校园APP找回密码</title><link href="/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/2020/02/22/%E4%BB%8A%E6%97%A5%E6%A0%A1%E5%9B%ADAPP%E5%BF%98%E8%AE%B0%E5%AF%86%E7%A0%81.html" rel="alternate" type="text/html" title="今日校园APP找回密码" /><published>2020-02-22T07:08:00+00:00</published><updated>2020-02-22T07:08:00+00:00</updated><id>/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/2020/02/22/%E4%BB%8A%E6%97%A5%E6%A0%A1%E5%9B%ADAPP%E5%BF%98%E8%AE%B0%E5%AF%86%E7%A0%81</id><content type="html" xml:base="/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/2020/02/22/%E4%BB%8A%E6%97%A5%E6%A0%A1%E5%9B%ADAPP%E5%BF%98%E8%AE%B0%E5%AF%86%E7%A0%81.html">&lt;p&gt;各位老师：&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-30T05:29:03+00:00</updated><id>/feed.xml</id><title type="html">信息技术中心师生服务</title><subtitle>信息技术中心面向师生的服务窗口</subtitle><author><name>运维服务部</name></author><entry><title type="html">统一身份认证多账号绑定</title><link href="/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/2020/03/30/%E7%BB%9F%E4%B8%80%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E5%A4%9A%E8%B4%A6%E5%8F%B7%E7%BB%91%E5%AE%9A.html" rel="alternate" type="text/html" title="统一身份认证多账号绑定" /><published>2020-03-30T03:11:00+00:00</published><updated>2020-03-30T05:27:30+00:00</updated><id>/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/2020/03/30/%E7%BB%9F%E4%B8%80%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E5%A4%9A%E8%B4%A6%E5%8F%B7%E7%BB%91%E5%AE%9A</id><content type="html" xml:base="/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/2020/03/30/%E7%BB%9F%E4%B8%80%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E5%A4%9A%E8%B4%A6%E5%8F%B7%E7%BB%91%E5%AE%9A.html">&lt;p&gt;有的用户有多个账号，例如有同学本科和研究生阶段都在云大，那么他会有本科生账号以及研究生账号；有的老师也是可能会有教工账号和博士生账号。&lt;em&gt;云大的统一身份认证系统中一个手机号码只能绑定到同一个账号，为了账号安全，每个账号默认都必须绑定手机号以及邮箱，并且设置强密码（至少包含大小写字母和数字的组合）。&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;在这样的场景下为方便存在多个账号的师生使用统一身份认证系统，我们可以在 &lt;code class=&quot;highlighter-rouge&quot;&gt;个人中心&lt;/code&gt; 中的账号绑定中绑定多个账号，这样就只需要一个手机号码即可。可以绑定成功的前提是多个账号的姓名必须相同，否则就会视为不同用户的账号。&lt;/p&gt;
+
+&lt;h1 id=&quot;操作指引&quot;&gt;操作指引&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;在浏览器中输入：&lt;a href=&quot;https://ids.ynu.edu.cn/authserver/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;https://ids.ynu.edu.cn/authserver/&lt;/code&gt;&lt;/a&gt; 访问 &lt;code class=&quot;highlighter-rouge&quot;&gt;统一身份认证&lt;/code&gt; 主页。选择一个 &lt;code class=&quot;highlighter-rouge&quot;&gt;主账号&lt;/code&gt; （多个账号之间其实是不区分主次，这里所说的主账号概念只是为了方便管理定义的，一般选择目前&lt;em&gt;经常使用&lt;/em&gt;的账号作为主账号，例如同时有本科生和研究生账号，建议选择研究生账号作为主账号，同时有教职工和博士生账号，建议选择教职工账号作为主账号）登陆。&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/ids-multi-login.png&quot; alt=&quot;ids-multi-login.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;登陆成功后会跳转到 &lt;code class=&quot;highlighter-rouge&quot;&gt;个人中心&lt;/code&gt; 页面，点击左侧的 &lt;code class=&quot;highlighter-rouge&quot;&gt;身份绑定&lt;/code&gt; ，如下图所示：&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/ids-multi-binding1.png&quot; alt=&quot;ids-multi-binding1.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;然后点击右侧的绑定，在弹出的对话框中输入需要绑定的账号及密码进行验证。如果忘记其他账号的密码，无法通过手机号（可能未绑定）等方式重置密码，请关注云大信息化公众号，在线提交重置密码工单，或拨打65031141联系信息技术中心运维服务部处理。&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/ids-multi-binding2.png&quot; alt=&quot;ids-multi-binding2.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;上一步的账号及密码验证完成后，即绑定成功，会有下图所示：&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/ids-multi-binding3.png&quot; alt=&quot;ids-multi-binding3.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;如果还有其他需要绑定的账号，重复上面第三步操作。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;若要解绑则可以如上图所示的直接点击&lt;code class=&quot;highlighter-rouge&quot;&gt;解绑&lt;/code&gt;按钮即可。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;这样操作之后，多个账号就共同绑定到同一个手机号，以后忘记密码就可以通过这一个手机号在统一身份认证登陆页面中点击忘记密码、页面中重置不同账号的密码。具体操作帮助可访问 &lt;a href=&quot;/常见问题/2018/12/12/统一认证找回密码.html&quot;&gt;统一认证找回密码&lt;/a&gt;。&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/ids-multi-binding4.png&quot; alt=&quot;ids-multi-binding4.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>运维服务部</name></author><category term="使用教程" /><category term="统一身份认证" /><category term="多账号" /><category term="身份绑定" /><category term="教程" /><summary type="html">有的用户有多个账号，例如有同学本科和研究生阶段都在云大，那么他会有本科生账号以及研究生账号；有的老师也是可能会有教工账号和博士生账号。云大的统一身份认证系统中一个手机号码只能绑定到同一个账号，为了账号安全，每个账号默认都必须绑定手机号以及邮箱，并且设置强密码（至少包含大小写字母和数字的组合）。</summary></entry><entry><title type="html">今日校园APP找回密码</title><link href="/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/2020/02/22/%E4%BB%8A%E6%97%A5%E6%A0%A1%E5%9B%ADAPP%E5%BF%98%E8%AE%B0%E5%AF%86%E7%A0%81.html" rel="alternate" type="text/html" title="今日校园APP找回密码" /><published>2020-02-22T07:08:00+00:00</published><updated>2020-02-22T07:08:00+00:00</updated><id>/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/2020/02/22/%E4%BB%8A%E6%97%A5%E6%A0%A1%E5%9B%ADAPP%E5%BF%98%E8%AE%B0%E5%AF%86%E7%A0%81</id><content type="html" xml:base="/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/2020/02/22/%E4%BB%8A%E6%97%A5%E6%A0%A1%E5%9B%ADAPP%E5%BF%98%E8%AE%B0%E5%AF%86%E7%A0%81.html">&lt;p&gt;各位老师：&lt;/p&gt;
 
 &lt;p&gt;“今日校园APP”的用户和密码与人事系统密码相同（都是统一认证）。如果忘记密码，可以直接在APP里点击“忘记密码”用您的手机号自助重置密码（人事处已经从后台为老师们绑定了手机号）&lt;/p&gt;
 
@@ -252,10 +290,4 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://65031141.github.io/assets/GlobeImposter勒索病毒事件安全检测工具使用手册v1.1.pdf&quot;&gt;&lt;strong&gt;附件1：GlobeImposter勒索病毒事件安全检测工具使用手册v1.1&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://65031141.github.io/assets/Globelmposter-V3.0勒索病毒事件应急处置方案.docx&quot;&gt;&lt;strong&gt;附件2：Globelmposter-V3.0勒索病毒事件应急处置方案&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>运维服务部</name></author><category term="使用教程" /><category term="GlobeImposter" /><category term="勒索病毒" /><summary type="html"></summary></entry><entry><title type="html">云南大学网站申请</title><link href="/%E5%8A%9E%E4%BA%8B%E6%8C%87%E5%8D%97/2019/02/19/%E4%BA%91%E5%8D%97%E5%A4%A7%E5%AD%A6%E7%BD%91%E7%AB%99%E7%94%B3%E8%AF%B7.html" rel="alternate" type="text/html" title="云南大学网站申请" /><published>2019-02-19T08:38:00+00:00</published><updated>2019-02-19T08:42:25+00:00</updated><id>/%E5%8A%9E%E4%BA%8B%E6%8C%87%E5%8D%97/2019/02/19/%E4%BA%91%E5%8D%97%E5%A4%A7%E5%AD%A6%E7%BD%91%E7%AB%99%E7%94%B3%E8%AF%B7</id><content type="html" xml:base="/%E5%8A%9E%E4%BA%8B%E6%8C%87%E5%8D%97/2019/02/19/%E4%BA%91%E5%8D%97%E5%A4%A7%E5%AD%A6%E7%BD%91%E7%AB%99%E7%94%B3%E8%AF%B7.html">&lt;h1 id=&quot;请按照以下提示进行办理&quot;&gt;请按照以下提示进行办理&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;若您需要通过现有站群系统模板开通网站，请您&lt;a href=&quot;http://65031141.ynu.edu.cn/%E5%B8%B8%E7%94%A8%E4%B8%8B%E8%BD%BD/2019/02/19/%E4%BA%91%E5%8D%97%E5%A4%A7%E5%AD%A6%E7%AB%99%E7%BE%A4%E5%BC%80%E9%80%9A%E7%BD%91%E7%AB%99%E7%94%B3%E8%AF%B7%E8%A1%A8.html&quot;&gt;&lt;strong&gt;点击此处&lt;/strong&gt;&lt;/a&gt;
-下载《云南大学站群开通网站申请表》，按照指南进行办理&lt;/li&gt;
-  &lt;li&gt;若您需要通过自建方式开通网站，请您&lt;a href=&quot;http://65031141.ynu.edu.cn/%E5%B8%B8%E7%94%A8%E4%B8%8B%E8%BD%BD/2019/02/19/%E4%BA%91%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%87%AA%E5%BB%BA%E7%BD%91%E7%AB%99%E5%BC%80%E9%80%9A%E7%94%B3%E8%AF%B7%E8%A1%A8.html&quot;&gt;&lt;strong&gt;点击此处&lt;/strong&gt;&lt;/a&gt;
-下载《云南大学自建网站开通申请表》，按照指南进行办理&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>运维服务部</name></author><category term="办事指南" /><category term="网站" /><category term="申请" /><summary type="html">请按照以下提示进行办理 若您需要通过现有站群系统模板开通网站，请您点击此处 下载《云南大学站群开通网站申请表》，按照指南进行办理 若您需要通过自建方式开通网站，请您点击此处 下载《云南大学自建网站开通申请表》，按照指南进行办理</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>运维服务部</name></author><category term="使用教程" /><category term="GlobeImposter" /><category term="勒索病毒" /><summary type="html"></summary></entry></feed>
